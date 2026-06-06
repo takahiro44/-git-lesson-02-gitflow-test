@@ -1,0 +1,7 @@
+sample_id,group,value
+M001,control,8.1
+M002,control,8.4
+M003,control,8.2
+M004,treatment,9.5
+M005,treatment,9.7
+M006,treatment,9.4
